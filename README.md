@@ -69,5 +69,39 @@ However, rewind to the 1970s, and you'd find a starkly different musical landsca
 ![most_loved_track](https://github.com/user-attachments/assets/622403d0-30f5-4cd1-ae5f-84d12a36b543)
 
 5. In the 1970s, an essential aspect of understanding music consumption involved a detailed sales data analysis across different cities. This analysis aimed to identify which urban centers purchased the most tracks and, crucially, to investigate if there was a correlation with cities that hosted significant live concerts. This correlation could shed light on the impact of live performances on local music sales during that era.
+   
+![Screenshot 2025-06-25 101033](https://github.com/user-attachments/assets/803979a1-c748-4113-828a-ede49696b70c)
 
-![graph_visualiser-1750826068426](https://github.com/user-attachments/assets/0c5b078b-bb6a-47fd-901d-8728d65e2795)
+6. To understand our highest-value customers, this analysis reveals Madhav R. as the top spender with $144.54, Helena Holý as the second highest at $128.70, and Hugh O'Reilly as the third, spending $114.84.
+7. Based on a key popularity metric from the 1970s, Led Zeppelin (114), U2 (112), and Deep Purple (92) stand out as the top-performing rock artists, showcasing the era's dominant musical influences.
+
+![Screenshot 2025-06-25 102543](https://github.com/user-attachments/assets/7e0e5dca-cf0c-4504-8570-3fe6fc72fa7e)
+
+8. In the groovy year of 1970, if we were looking at this "Top 10 Invoice Cities" pie chart, here's how we'd break it down:
+
+Alright cats and kittens, gather 'round, let's dig into this far-out chart showing where all the invoices are coming from. This ain't no disco ball, but it's shining a light on the top ten cities raking in the dough!
+
+Dublin is the undisputed king of the hill, man! With a whopping 26% of the invoices, it's clear Dublin is where it's at. They're making more noise than a Led Zeppelin concert!
+
+Then you've got Prague, pulling in a solid 23%. That's a strong second, real respectable. Looks like business is boomin' over there too.
+
+Next up, we got Toronto, chipping in with 16%. Canada's got some serious hustle, that's for sure.
+
+Orlando is showing up with a cool 12%. Maybe it's all those orange groves or something, but they're getting their share.
+
+Bordeaux is holding steady at 8%, same as Paris. Looks like those French cities are keeping a steady rhythm, not too flashy, but getting the job done.
+
+And then we got Fort Worth, bringing in 2%. They're on the map, making a little noise.
+
+Way down at the bottom, just barely in the top ten, we've got Winnipeg with 4% and MontrÃ©al with a humble 1%. Hey, every little bit counts, right? They're still getting some action, even if it's not a lot of bread.
+
+![Screenshot 2025-06-24 191204](https://github.com/user-attachments/assets/020cf0f9-71ea-449a-af5f-3f77d4b37720)
+
+### SUMMARY - 
+This music sales analysis, viewed through the lens of the 1970s, paints a clear picture:
+
+1. Rock was the undisputed king: It wasn't just a genre; it was a cultural phenomenon that dominated sales and customer preference. Promotional strategies, if implemented in the '70s, would have been wise to lean heavily into rock artists and their widespread appeal.
+2. Geographic hotspots are key: The USA, Canada, and Brazil were the big players in terms of invoice volume, indicating strong markets for music sales. Within cities, Dublin stood out as a particularly robust market. Understanding these geographic strongholds is crucial for targeted marketing.
+3. Identifying top customers and artists is vital: Knowing who the biggest spenders are (like Madhav R.) and which artists are generating the most buzz (Led Zeppelin, U2, Deep Purple) allows for focused marketing efforts and artist development.
+4. Employee structure matters: Having a clear senior-most employee like Mohan Madan ensures strong leadership and direction in the music business.
+Track popularity drives sales: The analysis of "most loved tracks" and longest durations helps in understanding what resonates with the audience, guiding future music production and marketing.
